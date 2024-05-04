@@ -1,6 +1,6 @@
 # Expense Tracker
 
-Expense Tracker is a simple web application designed to help users track their expenses. It provides an easy-to-use interface for adding, categorizing, and analyzing expenses.
+Expense Tracker is a simple system application designed to help users track their expenses. It provides an easy-to-use interface for adding, categorizing, and analyzing expenses.
 
 ## Features
 
