@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>print.png</file>
+    <file>delete.png</file>
+    <file>error.png</file>
+    <file>total.png</file>
+    <file>trash-bin.png</file>
+    <file>reload.png</file>
+    <file>eraser.png</file>
+    <file>save.png</file>
+    <file>325669769_1167867293844440_2152518326413417903_n.png</file>
+    <file>275631393_1018758575702258_8686883082476725891_n.png</file>
+    <file>320515855_1565399190553501_3941100057485562634_n.png</file>
+    <file>transaction.png</file>
+    <file>categories.png</file>
+    <file>dashboard.png</file>
+    <file>hamburger.png</file>
+    <file>search.png</file>
+    <file>notification.png</file>
+    <file>activity.png</file>
+    <file>users.png</file>
+    <file>user.png</file>
+  </qresource>
+</RCC>
